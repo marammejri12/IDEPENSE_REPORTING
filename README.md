@@ -13,7 +13,7 @@ Misc          : tFixedFlowInput
 ###### Répertoire GIT à utiliser : scriptSQL Dossier 1- Initialize
 
 1-script_create_database.sql
-	Création de la base de données IDEPENSE_INGESTION_DB (Vous pouvez directement créer la base de données à partir de l'interface pgAdmin 4)
+	Création de la base de données IDEPENSE_INGESTION_DB 
 
 2-script_create_schema_params.sql
 	Création du schéma PARAMS_LOG
