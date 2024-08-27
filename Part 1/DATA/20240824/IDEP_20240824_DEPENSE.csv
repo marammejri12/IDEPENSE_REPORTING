@@ -1,0 +1,358 @@
+NUM_DEPENSE|DT_DEPENSE|LB_DESCRIPTION_DEPENSE|LB_SOUS_CATEGORIE|MT_DEPENSE
+D00001|01/01/2022|Achat Essence|Carburant|32.41
+D00002|02/01/2022|Alimentation|Alimentation|20.37
+D00003|06/01/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00004|09/01/2022|Alimentation|Alimentation|20.82
+D00005|11/01/2022|Achat Essence|Carburant|32.41
+D00006|12/01/2022|Frais Electricité|Énergie (Électricité & Gaz)|52.08
+D00007|12/01/2022|Frais bancaire|Frais Bancaire|0.58
+D00008|13/01/2022|Soins et Hygiène|Soins et Hygiène|12.93
+D00009|13/01/2022|Alimentation|Alimentation|0.97
+D00010|16/01/2022|Alimentation|Alimentation|26.19
+D00011|16/01/2022|Alimentation|Alimentation|7.44
+D00012|16/01/2022|Loisirs|Loisirs|4.54
+D00013|16/01/2022|Frais bancaire|Frais Bancaire|0.58
+D00014|16/01/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|8.43
+D00015|27/01/2022|Paiement Loyer|Loyer|363.0
+D00016|19/01/2022|Alimentation|Alimentation|22.75
+D00017|19/01/2022|Alimentation|Alimentation|4.21
+D00018|20/01/2022|Alimentation|Alimentation|5.19
+D00019|23/01/2022|Alimentation|Alimentation|25.66
+D00020|24/01/2022|Soins et Hygiène|Soins et Hygiène|2.59
+D00021|24/01/2022|Alimentation|Alimentation|4.09
+D00022|24/01/2022|Alimentation|Alimentation|3.87
+D00023|24/01/2022|Alimentation|Alimentation|9.81
+D00024|24/01/2022|Frais bancaire|Frais Bancaire|3.15
+D00025|27/01/2022|Cadeaux d'Anniversaire|Cadeaux d'Anniversaire|21.49
+D00026|28/01/2022|Alimentation|Alimentation|2.59
+D00027|22/01/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00028|31/01/2022|Alimentation|Alimentation|15.65
+D00029|03/02/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00030|03/02/2022|Alimentation|Alimentation|5.13
+D00031|07/02/2022|Alimentation|Alimentation|22.25
+D00032|09/02/2022|Soins et Hygiène|Soins et Hygiène|17.47
+D00033|13/02/2022|Alimentation|Alimentation|1.23
+D00034|13/02/2022|Alimentation|Alimentation|1.25
+D00035|13/02/2022|Frais Electricité|Énergie (Électricité & Gaz)|52.08
+D00036|14/02/2022|Alimentation|Alimentation|17.25
+D00037|14/02/2022|Alimentation|Alimentation|3.52
+D00038|17/02/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|8.43
+D00039|17/02/2022|Loisirs|Loisirs|19.45
+D00040|17/02/2022|Paiement assurance Habitation|Assurance Maison|53.71
+D00041|27/02/2022|Paiement Loyer|Loyer|363.0
+D00042|19/02/2022|Paiement Machine|Equipemement Maison|55.09
+D00043|19/02/2022|Achat Essence|Carburant|32.41
+D00044|24/02/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00045|24/02/2022|Frais bancaire|Frais Bancaire|3.15
+D00046|20/02/2022|Frais de coiffure|Coiffeur|12.0
+D00047|25/02/2022|Frais bancaire|Frais Bancaire|0.58
+D00048|28/02/2022|Frais santé|Santé (Pharmacie & Hôpital)|4.47
+D00049|26/02/2022|Frais bancaire|Frais Bancaire|0.35
+D00050|27/02/2022|Alimentation|Alimentation|5.96
+D00051|04/03/2022|Alimentation|Alimentation|3.23
+D00052|06/03/2022|Alimentation|Alimentation|7.39
+D00053|06/03/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00054|06/03/2022|Alimentation|Alimentation|23.58
+D00055|07/03/2022|Achat vêtements|Vêtements & Autres|7.25
+D00056|13/03/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|9.3
+D00057|14/03/2022|Frais Electricité|Énergie (Électricité & Gaz)|52.08
+D00058|14/03/2022|Alimentation|Alimentation|11.67
+D00059|14/03/2022|Achat Essence|Carburant|32.41
+D00060|16/03/2022|Achat Essence|Carburant|13.61
+D00061|27/03/2022|Paiement Loyer|Loyer|363.0
+D00062|19/03/2022|Paiement Facture d'eau|Eau|135.37
+D00063|25/03/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00064|26/03/2022|Soins et Hygiène|Soins et Hygiène|6.13
+D00065|26/03/2022|Frais bancaire|Frais Bancaire|3.15
+D00066|28/03/2022|Alimentation|Alimentation|10.29
+D00067|28/03/2022|Alimentation|Alimentation|24.19
+D00068|28/03/2022|Alimentation|Alimentation|1.13
+D00069|28/03/2022|Alimentation|Alimentation|9.66
+D00070|02/04/2022|Loisirs|Loisirs|32.41
+D00071|31/03/2022|Alimentation|Alimentation|2.93
+D00072|03/04/2022|Frais santé|Santé (Pharmacie & Hôpital)|1.91
+D00073|03/04/2022|Alimentation|Alimentation|14.74
+D00074|03/04/2022|Alimentation|Alimentation|33.57
+D00075|03/04/2022|Frais santé|Santé (Pharmacie & Hôpital)|3.88
+D00076|07/04/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00077|07/04/2022|Achat Essence|Carburant|19.45
+D00078|07/04/2022|Alimentation|Alimentation|0.78
+D00079|09/04/2022|Alimentation|Alimentation|5.15
+D00080|11/04/2022|Alimentation|Alimentation|19.97
+D00081|12/04/2022|Achat Essence|Carburant|32.41
+D00082|15/04/2022|Frais Electricité|Énergie (Électricité & Gaz)|52.08
+D00083|15/04/2022|Alimentation|Alimentation|6.37
+D00084|15/04/2022|Alimentation|Alimentation|2.56
+D00085|17/04/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|8.43
+D00086|19/04/2022|Alimentation|Alimentation|19.71
+D00087|19/04/2022|Alimentation|Alimentation|46.15
+D00088|20/04/2022|Frais bancaire|Frais Bancaire|0.58
+D00089|27/04/2022|Paiement Loyer|Loyer|363.0
+D00090|21/04/2022|Loisirs|Loisirs|10.16
+D00091|20/04/2022|Alimentation|Alimentation|6.53
+D00092|21/04/2022|Alimentation|Alimentation|13.61
+D00093|21/04/2022|Paiement abonnement|Abonnement Logiciel|15.55
+D00094|21/04/2022|Alimentation|Alimentation|5.19
+D00095|21/04/2022|Alimentation|Alimentation|13.66
+D00096|21/04/2022|Alimentation|Alimentation|8.75
+D00097|23/04/2022|Frais bancaire|Frais Bancaire|0.58
+D00098|21/04/2022|Frais Electricité|Énergie (Électricité & Gaz)|17.84
+D00099|25/04/2022|Frais bancaire|Frais Bancaire|0.58
+D00100|28/04/2022|Frais bancaire|Frais Bancaire|3.15
+D00101|29/04/2022|Alimentation|Alimentation|24.34
+D00102|01/05/2022|Alimentation|Alimentation|8.82
+D00103|02/05/2022|Alimentation|Alimentation|25.9
+D00104|02/05/2022|Alimentation|Alimentation|9.16
+D00105|27/04/2022|Alimentation|Alimentation|17.11
+D00106|27/04/2022|Alimentation|Alimentation|6.22
+D00107|02/05/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00108|24/04/2022|Alimentation|Alimentation|2.52
+D00109|04/05/2022|Achat Essence|Carburant|32.41
+D00110|04/05/2022|Alimentation|Alimentation|2.02
+D00111|05/05/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00112|11/05/2022|Alimentation|Alimentation|11.28
+D00113|11/05/2022|Frais bancaire|Frais Bancaire|0.58
+D00114|11/05/2022|Alimentation|Alimentation|16.21
+D00115|14/05/2022|Alimentation|Alimentation|12.96
+D00116|15/05/2022|Alimentation|Alimentation|8.43
+D00117|18/05/2022|Paiement Impôt|Impôts et Taxes|89.0
+D00118|18/05/2022|Alimentation|Alimentation|17.29
+D00119|19/05/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|8.45
+D00120|27/05/2022|Paiement Loyer|Loyer|363.0
+D00121|22/05/2022|Alimentation|Alimentation|3.89
+D00122|22/05/2022|Alimentation|Alimentation|9.01
+D00123|25/05/2022|Alimentation|Alimentation|5.51
+D00124|25/05/2022|Frais bancaire|Frais Bancaire|3.15
+D00125|26/05/2022|Soins et Hygiène|Soins et Hygiène|6.48
+D00126|30/05/2022|Achat chaussure|Vêtements & Autres|38.89
+D00127|30/05/2022|Alimentation|Alimentation|12.48
+D00128|25/05/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00129|25/05/2022|Alimentation|Alimentation|2.28
+D00130|25/05/2022|Alimentation|Alimentation|39.55
+D00131|25/05/2022|Alimentation|Alimentation|24.31
+D00132|25/05/2022|Alimentation|Alimentation|6.31
+D00133|25/05/2022|Alimentation|Alimentation|2.27
+D00134|26/05/2022|Alimentation|Alimentation|19.44
+D00135|29/05/2022|Frais bancaire|Frais Bancaire|0.41
+D00136|30/05/2022|Frais de coiffure|Coiffeur|12.0
+D00137|30/05/2022|Alimentation|Alimentation|22.3
+D00138|30/05/2022|Alimentation|Alimentation|4.38
+D00139|02/06/2022|Alimentation|Alimentation|4.6
+D00140|02/06/2022|Alimentation|Alimentation|7.78
+D00141|04/06/2022|Loisirs|Loisirs|3.18
+D00142|04/06/2022|Achat pharmacie|Santé (Pharmacie & Hôpital)|5.45
+D00143|05/06/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00144|01/06/2022|Alimentation|Alimentation|7.26
+D00145|05/06/2022|Alimentation|Alimentation|1.37
+D00146|10/06/2022|Loisirs|Loisirs|4.54
+D00147|09/06/2022|Alimentation|Alimentation|4.62
+D00148|11/06/2022|Alimentation|Alimentation|1.36
+D00149|15/06/2022|Alimentation|Alimentation|3.09
+D00150|15/06/2022|Alimentation|Alimentation|5.82
+D00151|15/06/2022|Alimentation|Alimentation|2.84
+D00152|19/06/2022|Alimentation|Alimentation|7.53
+D00153|21/06/2022|Alimentation|Alimentation|0.71
+D00154|15/06/2022|Frais Electricité|Énergie (Électricité & Gaz)|55.88
+D00155|17/06/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|8.43
+D00156|27/06/2022|Paiement Loyer|Loyer|363.0
+D00157|19/06/2022|Frais bancaire|Frais Bancaire|0.32
+D00158|19/06/2022|Achat Essence|Carburant|32.41
+D00159|22/06/2022|Alimentation|Alimentation|8.49
+D00160|22/06/2022|Alimentation|Alimentation|48.46
+D00161|25/06/2022|Frais bancaire|Frais Bancaire|3.15
+D00162|25/06/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00163|27/06/2022|Alimentation|Alimentation|2.16
+D00164|06/07/2022|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00165|06/07/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00166|06/07/2022|Loisirs|Loisirs|12.83
+D00167|06/07/2022|Loisirs|Loisirs|17.24
+D00168|06/07/2022|Alimentation|Alimentation|36.69
+D00169|07/07/2022|Frais bancaire|Frais Bancaire|0.58
+D00170|15/07/2022|Frais Electricité|Énergie (Électricité & Gaz)|55.88
+D00171|17/07/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|8.45
+D00172|17/07/2022|Paiement assurance voiture|Assurance Voiture|628.03
+D00173|07/07/2022|Alimentation|Alimentation|1.91
+D00174|13/07/2022|Alimentation|Alimentation|12.48
+D00175|13/07/2022|Alimentation|Alimentation|6.6
+D00176|27/07/2022|Paiement Loyer|Loyer|363.0
+D00177|20/07/2022|Alimentation|Alimentation|2.92
+D00178|27/07/2022|Frais bancaire|Frais Bancaire|0.58
+D00179|27/07/2022|Frais bancaire|Frais Bancaire|3.15
+D00180|23/07/2022|Alimentation|Alimentation|3.02
+D00181|24/07/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00182|27/07/2022|Alimentation|Alimentation|3.09
+D00183|31/07/2022|Abonnement Microsoft|Abonnement Logiciel|64.17
+D00184|03/08/2022|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00185|04/08/2022|Soins et Hygiène|Soins et Hygiène|3.82
+D00186|04/08/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00187|06/08/2022|Alimentation|Alimentation|2.38
+D00188|10/08/2022|Frais bancaire|Frais Bancaire|0.58
+D00189|03/08/2022|Alimentation|Alimentation|6.31
+D00190|03/08/2022|Alimentation|Alimentation|6.93
+D00191|03/08/2022|Alimentation|Alimentation|6.58
+D00192|07/08/2022|Alimentation|Alimentation|5.65
+D00193|14/08/2022|Frais Electricité|Énergie (Électricité & Gaz)|55.88
+D00194|27/08/2022|Paiement Loyer|Loyer|363.0
+D00195|17/08/2022|Achat Essence|Carburant|19.45
+D00196|17/08/2022|Paiement assurance Habitation|Assurance Maison|63.85
+D00197|18/08/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|8.43
+D00198|18/08/2022|Alimentation|Alimentation|2.29
+D00199|14/08/2022|Alimentation|Alimentation|6.84
+D00200|14/08/2022|Alimentation|Alimentation|4.84
+D00201|19/08/2022|Alimentation|Alimentation|9.89
+D00202|19/08/2022|Alimentation|Alimentation|10.05
+D00203|21/08/2022|Frais bancaire|Frais Bancaire|0.38
+D00204|21/08/2022|Frais bancaire|Frais Bancaire|5.81
+D00205|21/08/2022|Frais bancaire|Frais Bancaire|7.13
+D00206|22/08/2022|Alimentation|Alimentation|3.41
+D00207|29/08/2022|Frais bancaire|Frais Bancaire|3.15
+D00208|02/09/2022|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00209|04/09/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00210|25/08/2022|Alimentation|Alimentation|7.99
+D00211|28/08/2022|Frais bancaire|Frais Bancaire|0.59
+D00212|31/08/2022|Alimentation|Alimentation|7.12
+D00213|07/09/2022|Soins et Hygiène|Soins et Hygiène|6.41
+D00214|09/09/2022|Alimentation|Alimentation|3.94
+D00215|11/09/2022|Alimentation|Alimentation|6.22
+D00216|31/08/2022|Alimentation|Alimentation|7.94
+D00217|14/09/2022|Frais Electricité|Énergie (Électricité & Gaz)|55.88
+D00218|14/09/2022|Alimentation|Alimentation|12.02
+D00219|17/09/2022|Alimentation|Alimentation|4.17
+D00220|18/09/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|9.07
+D00221|18/09/2022|Alimentation|Alimentation|1.89
+D00222|14/09/2022|Alimentation|Alimentation|9.71
+D00223|16/09/2022|Alimentation|Alimentation|3.07
+D00224|27/09/2022|Paiement Loyer|Loyer|363.0
+D00225|19/09/2022|Paiement Facture d'eau|Eau|100.55
+D00226|23/09/2022|Frais pharmacie|Santé (Pharmacie & Hôpital)|6.22
+D00227|25/09/2022|Frais santé|Santé (Pharmacie & Hôpital)|8.33
+D00228|25/09/2022|Frais bancaire|Frais Bancaire|3.15
+D00229|29/09/2022|Frais santé|Santé (Pharmacie & Hôpital)|2.53
+D00230|01/10/2022|Alimentation|Alimentation|6.78
+D00231|24/09/2022|Alimentation|Alimentation|13.42
+D00232|28/09/2022|Alimentation|Alimentation|3.91
+D00233|28/09/2022|Alimentation|Alimentation|11.62
+D00234|29/09/2022|Alimentation|Alimentation|17.49
+D00235|03/10/2022|Alimentation|Alimentation|4.91
+D00236|03/10/2022|Alimentation|Alimentation|6.62
+D00237|05/10/2022|Soins et Hygiène|Soins et Hygiène|7.06
+D00238|05/10/2022|Achat Essence|Carburant|32.41
+D00239|06/10/2022|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00240|06/10/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00241|07/10/2022|Alimentation|Alimentation|1.85
+D00242|12/10/2022|Alimentation|Alimentation|3.34
+D00243|12/10/2022|Alimentation|Alimentation|11.02
+D00244|12/10/2022|Alimentation|Alimentation|3.44
+D00245|12/10/2022|Alimentation|Alimentation|1.64
+D00246|16/10/2022|Alimentation|Alimentation|2.05
+D00247|27/10/2022|Paiement Loyer|Loyer|363.0
+D00248|19/10/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|9.07
+D00249|19/10/2022|Alimentation|Alimentation|6.6
+D00250|23/10/2022|Frais bancaire|Frais Bancaire|3.15
+D00251|22/10/2022|Alimentation|Alimentation|9.64
+D00252|24/10/2022|Alimentation|Alimentation|14.03
+D00253|24/10/2022|Alimentation|Alimentation|12.93
+D00254|30/10/2022|Soins et Hygiène|Soins et Hygiène|4.47
+D00255|30/10/2022|Alimentation|Alimentation|19.69
+D00256|28/10/2022|Alimentation|Alimentation|0.78
+D00257|28/10/2022|Alimentation|Alimentation|2.53
+D00258|30/10/2022|Frais bancaire|Frais Bancaire|0.58
+D00259|01/11/2022|Achat Essence|Carburant|43.59
+D00260|02/11/2022|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00261|03/11/2022|Paiement Machine|Equipemement Maison|16.83
+D00262|12/11/2022|Frais Electricité|Énergie (Électricité & Gaz)|46.93
+D00263|16/11/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|9.07
+D00264|16/11/2022|Paiement Machine|Equipemement Maison|38.23
+D00265|27/11/2022|Paiement Loyer|Loyer|363.0
+D00266|03/11/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00267|04/11/2022|Alimentation|Alimentation|6.67
+D00268|09/11/2022|Alimentation|Alimentation|1.35
+D00269|11/11/2022|Frais santé|Santé (Pharmacie & Hôpital)|4.62
+D00270|16/11/2022|Alimentation|Alimentation|4.73
+D00271|16/11/2022|Alimentation|Alimentation|1.78
+D00272|16/11/2022|Alimentation|Alimentation|1.07
+D00273|17/11/2022|Frais bancaire|Frais Bancaire|17.5
+D00274|23/11/2022|Achat Essence|Carburant|32.41
+D00275|23/11/2022|Frais bancaire|Frais Bancaire|3.15
+D00276|02/12/2022|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00277|03/12/2022|Paiement Machine|Equipemement Maison|15.54
+D00278|08/12/2022|Cadeaux d'Anniversaire|Cadeaux d'Anniversaire|19.23
+D00279|14/12/2022|Frais Electricité|Énergie (Électricité & Gaz)|55.88
+D00280|14/12/2022|Alimentation|Alimentation|5.17
+D00281|16/12/2022|Prélèvement Abonnement SFR|Abonnement Télécommunications|9.07
+D00282|27/12/2022|Paiement Loyer|Loyer|363.0
+D00283|20/11/2022|Alimentation|Alimentation|9.0
+D00284|23/11/2022|Alimentation|Alimentation|7.63
+D00285|23/11/2022|Alimentation|Alimentation|0.84
+D00286|23/11/2022|Alimentation|Alimentation|11.67
+D00287|23/11/2022|Alimentation|Alimentation|3.57
+D00288|23/11/2022|Alimentation|Alimentation|1.94
+D00289|01/12/2022|Frais bancaire|Frais Bancaire|0.62
+D00290|01/12/2022|Alimentation|Alimentation|12.1
+D00291|04/12/2022|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00292|07/12/2022|Alimentation|Alimentation|8.1
+D00293|07/12/2022|Alimentation|Alimentation|0.65
+D00294|07/12/2022|Alimentation|Alimentation|4.13
+D00295|16/12/2022|Cadeaux d'Anniversaire|Cadeaux d'Anniversaire|64.82
+D00296|16/12/2022|Loisirs|Loisirs|37.08
+D00297|17/12/2022|Loisirs|Loisirs|8.82
+D00298|17/12/2022|Frais bancaire|Frais Bancaire|0.58
+D00299|18/12/2022|Loisirs|Loisirs|9.85
+D00300|18/12/2022|Achat Essence|Carburant|22.68
+D00301|18/12/2022|Alimentation|Alimentation|11.99
+D00302|18/12/2022|Alimentation|Alimentation|4.57
+D00303|18/12/2022|Alimentation|Alimentation|4.18
+D00304|19/12/2022|Alimentation|Alimentation|4.64
+D00305|23/12/2022|Frais bancaire|Frais Bancaire|3.15
+D00306|30/12/2022|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00307|24/12/2022|Alimentation|Alimentation|1.08
+D00308|25/12/2022|Alimentation|Alimentation|3.62
+D00309|29/12/2022|Alimentation|Alimentation|4.12
+D00310|29/12/2022|Alimentation|Alimentation|4.1
+D00311|29/12/2022|Alimentation|Alimentation|12.3
+D00312|29/12/2022|Alimentation|Alimentation|14.12
+D00313|11/01/2023|Alimentation|Alimentation|4.18
+D00314|11/01/2023|Alimentation|Alimentation|8.22
+D00315|12/01/2023|Frais Electricité|Énergie (Électricité & Gaz)|55.88
+D00316|15/01/2023|Prélèvement Abonnement SFR|Abonnement Télécommunications|9.07
+D00317|04/01/2023|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00318|04/01/2023|Alimentation|Alimentation|2.92
+D00319|04/01/2023|Alimentation|Alimentation|8.07
+D00320|04/01/2023|Alimentation|Alimentation|6.57
+D00321|04/01/2023|Alimentation|Alimentation|9.89
+D00322|04/01/2023|Alimentation|Alimentation|1.28
+D00323|04/01/2023|Alimentation|Alimentation|6.33
+D00324|27/01/2023|Paiement Loyer|Loyer|363.0
+D00325|15/01/2023|Frais bancaire|Frais Bancaire|0.58
+D00326|19/01/2023|Frais bancaire|Frais Bancaire|0.58
+D00327|15/01/2023|Loisirs|Loisirs|21.2
+D00328|19/01/2023|Alimentation|Alimentation|1.85
+D00329|19/01/2023|Alimentation|Alimentation|7.22
+D00330|19/01/2023|Alimentation|Alimentation|32.14
+D00331|19/01/2023|Cadeaux d'Anniversaire|Cadeaux d'Anniversaire|49.01
+D00332|19/01/2023|Alimentation|Alimentation|14.95
+D00333|20/01/2023|Alimentation|Alimentation|3.74
+D00334|20/01/2023|Alimentation|Alimentation|2.02
+D00335|25/01/2023|Alimentation|Alimentation|24.22
+D00336|25/01/2023|Cadeaux d'Anniversaire|Cadeaux d'Anniversaire|31.11
+D00337|25/01/2023|Frais bancaire|Frais Bancaire|3.15
+D00338|27/01/2023|Frais bancaire|Santé (Pharmacie & Hôpital)|4.86
+D00339|28/01/2023|Soins et Hygiène|Soins et Hygiène|9.98
+D00340|28/01/2023|Frais de coiffure|Coiffeur|12.0
+D00341|28/01/2023|Loisirs|Loisirs|20.74
+D00342|28/01/2023|Déplacement vers une autre ville|Voyages & Autres|30.47
+D00343|25/01/2023|Alimentation|Alimentation|0.84
+D00344|01/02/2023|Paiement Abonnement Transport|Abonnement Transport|25.74
+D00345|01/02/2023|Alimentation|Alimentation|8.22
+D00346|05/02/2023|Alimentation|Alimentation|5.51
+D00347|06/02/2023|Abonnement Microsoft|Abonnement Logiciel|6.48
+D00348|08/02/2023|Alimentation|Alimentation|4.69
+D00349|12/02/2023|Frais Electricité|Énergie (Électricité & Gaz)|55.88
+D00350|12/02/2023|Alimentation|Alimentation|6.86
+D00351|15/02/2023|Prélèvement Abonnement SFR|Abonnement Télécommunications|9.71
+D00352|15/02/2023|Alimentation|Alimentation|3.44
+D00353|15/02/2023|Achat Essence|Carburant|19.45
+D00354|27/02/2023|Paiement Loyer|Loyer|363.0
+D00355|16/02/2023|Alimentation|Alimentation|2.54
+D00356|16/02/2023|Paiement assurance Habitation|Assurance Maison|56.14
+D00357|16/02/2023|Paiement assurance Habitation|Assurance Maison|56.14

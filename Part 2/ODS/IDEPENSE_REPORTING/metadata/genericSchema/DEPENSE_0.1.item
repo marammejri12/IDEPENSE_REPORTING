@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_ALph4GAREe-ULa0GIl9JwA" name="repository.metadataGenericSchema" dataPackage="_ALph4WAREe-ULa0GIl9JwA"/>
+  <TalendMetadata:GenericPackage xmi:id="_ALph4WAREe-ULa0GIl9JwA" name="repository.metadataGenericSchema" dataManager="_ALph4GAREe-ULa0GIl9JwA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ALph4mAREe-ULa0GIl9JwA" id="_vXC8QGAQEe-ULa0GIl9JwA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ALph42AREe-ULa0GIl9JwA" name="NUM_DEPENSE" label="NUM_DEPENSE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ALph5GAREe-ULa0GIl9JwA" name="DT_DEPENSE" label="DT_DEPENSE" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ALph5WAREe-ULa0GIl9JwA" name="LB_DESCRIPTION_DEPENSE" label="LB_DESCRIPTION_DEPENSE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ALph5mAREe-ULa0GIl9JwA" name="LB_SOUS_CATEGORIE" label="LB_SOUS_CATEGORIE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ALph52AREe-ULa0GIl9JwA" name="MT_DEPENSE" label="MT_DEPENSE" length="-1" talendType="id_Float"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_QO5YgGAQEe-ULa0GIl9JwA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_QO5YgWAQEe-ULa0GIl9JwA" comment="" name="defenceFileRepo" prompt="defenceFileRepo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Input/"/>
+  <contextParameter xmi:id="_QO5YgmAQEe-ULa0GIl9JwA" comment="" name="defenceFileName" prompt="defenceFileName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SAISIE_DEPENSE.xlsx"/>
+</talendfile:ContextType>

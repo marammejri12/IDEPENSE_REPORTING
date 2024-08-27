@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:relational="http://www.talend.org/cwm/resource/relational/2010">
+  <TalendMetadata:DatabaseConnection xmi:id="_GFOhIGDREe-gr9BKFFJSRQ" name="PARAMS_LOG" id="_9C6MEGDQEe-gr9BKFFJSRQ" label="PARAMS_LOG" dataPackage="_Kpv1MGDREe-gr9BKFFJSRQ" ContextMode="true" ContextId="_1MAooGDNEe-gr9BKFFJSRQ" contextName="Default" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5433/IDEPENSE_INGESTION_DB?" dbVersionString="V9_X" Port="context.port" Username="context.utilisateur" Password="context.password" ServerName="context.serverName" DatasourceName="" FileFieldName="" SID="context.database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="context.additionalParam" StandardSQL="true" SQLMode="false" UiSchema="context.schema_param">
+    <taggedValue xmi:id="_GFOhIWDREe-gr9BKFFJSRQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_GFhcEGDREe-gr9BKFFJSRQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_GFhcEWDREe-gr9BKFFJSRQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_GFhcEmDREe-gr9BKFFJSRQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_GFhcE2DREe-gr9BKFFJSRQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_GFhcFGDREe-gr9BKFFJSRQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_GFhcFWDREe-gr9BKFFJSRQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_GFhcFmDREe-gr9BKFFJSRQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_KoHdgGDREe-gr9BKFFJSRQ" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_KoHdgWDREe-gr9BKFFJSRQ" tag="DB ProductVersion" value="14.12"/>
+    <taggedValue xmi:id="_KoHdgmDREe-gr9BKFFJSRQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_GFOhImDREe-gr9BKFFJSRQ" key="CONN_PARA_KEY_USERNAME" value="context.utilisateur"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Kpv1MGDREe-gr9BKFFJSRQ" name="IDEPENSE_INGESTION_DB" dataManager="_GFOhIGDREe-gr9BKFFJSRQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_KpwcQGDREe-gr9BKFFJSRQ" name="PARAMS_LOG">
+      <ownedElement xsi:type="relational:TdTable" xmi:id="_OQU6UWDREe-gr9BKFFJSRQ" name="CONTEXTE" id="_OQU6UGDREe-gr9BKFFJSRQ" label="CONTEXTE" tableType="TABLE">
+        <feature xsi:type="relational:TdColumn" xmi:id="_OQU6UmDREe-gr9BKFFJSRQ" name="key" label="key" length="100" sourceType="VARCHAR" talendType="id_String" key="true" nullable="false">
+          <taggedValue xmi:id="_OQU6U2DREe-gr9BKFFJSRQ" tag="Comment" value=""/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_OQU6VGDREe-gr9BKFFJSRQ" language="COLUMN_DEF"/>
+          <sqlDataType xmi:id="_OQU6VWDREe-gr9BKFFJSRQ" name="VARCHAR" numericPrecisionRadix="10" javaDataType="12"/>
+        </feature>
+        <feature xsi:type="relational:TdColumn" xmi:id="_OQU6VmDREe-gr9BKFFJSRQ" name="value" label="value" length="255" sourceType="VARCHAR" talendType="id_String">
+          <taggedValue xmi:id="_OQU6V2DREe-gr9BKFFJSRQ" tag="Comment" value=""/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_OQU6WGDREe-gr9BKFFJSRQ" language="COLUMN_DEF"/>
+          <sqlDataType xmi:id="_OQU6WWDREe-gr9BKFFJSRQ" name="VARCHAR" numericPrecisionRadix="10" javaDataType="12" nullable="columnNullable"/>
+        </feature>
+      </ownedElement>
+    </ownedElement>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

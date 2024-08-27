@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-x17UGJKEe-fx7snViL5aQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_y00g8GJQEe-fx7snViL5aQ" comment="" name="mailTo" prompt="mailTo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g8WJQEe-fx7snViL5aQ" comment="" name="mailFrom" prompt="mailFrom?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g8mJQEe-fx7snViL5aQ" comment="" name="mailSenderName" prompt="mailSenderName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g82JQEe-fx7snViL5aQ" comment="" name="mailCc" prompt="mailCc?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g9GJQEe-fx7snViL5aQ" comment="" name="mailBcc" prompt="mailBcc?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g9WJQEe-fx7snViL5aQ" comment="" name="mailSMTPHost" prompt="mailSMTPHost?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g9mJQEe-fx7snViL5aQ" comment="" name="mailSMTPPort" prompt="mailSMTPPort?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g92JQEe-fx7snViL5aQ" comment="" name="mailUsername" prompt="mailUsername?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_y00g-GJQEe-fx7snViL5aQ" comment="" name="mailPassword" prompt="mailPassword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+  <contextParameter xmi:id="_y00g-WJQEe-fx7snViL5aQ" comment="" name="sendMail" prompt="sendMail?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value=""/>
+</talendfile:ContextType>
